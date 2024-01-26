@@ -1,4 +1,4 @@
-# Credit-Card-Simulator
+# Credit-Card-Simulator - October 2022
 A simple credit card program demonstrating effective use of the following programming concepts:
 * Procedural Programming Paradigm
 * Modularity and Sequential Execution
