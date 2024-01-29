@@ -5,3 +5,5 @@ A simple credit card program demonstrating effective use of the following progra
 * Efficient State Management
 * Error Handling
 * Effective Documentation
+
+Made in collaboration with Patrick Szente
